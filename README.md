@@ -1,4 +1,4 @@
-This is a sample Aliceblue API program
+This is a sample Aliceblue API(Version 1) program 
 
 It is calculating exponential moving averages(EMA) and triple exponential moving average(TEMA) values
 
